@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown Los Angeles"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-118.265, 34.055],
+          [-118.232, 34.060],
+          [-118.225, 34.040],
+          [-118.255, 34.028],
+          [-118.265, 34.055]
+        ]]
+      }
+    }
+  ]
+}

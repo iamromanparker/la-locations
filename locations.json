@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Griffith Observatory",
+    "address": "2800 E Observatory Rd",
+    "lat": 34.118,
+    "lng": -118.300,
+    "type": "explore",
+    "reason": "This art deco landmark features a high-tech planetarium, public telescopes & city views."
+  },
+  {
+    "title": "The Getty Villa",
+    "address": "17985 Pacific Coast Hwy",
+    "lat": 34.045,
+    "lng": -118.565,
+    "type": "explore",
+    "reason": "Former tycoon's residence modeled after 1st-century Italian villa, with Greek & Roman artifacts."
+  },
+  {
+    "title": "Fox Plaza",
+    "address": "2121 Avenue of the Stars",
+    "lat": 34.055,
+    "lng": -118.413,
+    "type": "filming",
+    "reason": "Its most famous appearance was in the 1988 action film Die Hard, it portrayed Nakatomi Plaza."
+  },
+  {
+    "title": "In-N-Out Burger",
+    "address": "9149 S Sepulveda Blvd",
+    "lat": 33.953,
+    "lng": -118.396,
+    "type": "eat",
+    "reason": "Iconic Southern California burger joint perfect for spotting planes landing at LAX."
+  }
+]
