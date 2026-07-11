@@ -1,34 +1,604 @@
 [
   {
+    "title": "Pizzana Brentwood",
+    "address": "11712 San Vicente Blvd, Los Angeles, CA 90049",
+    "lat": 34.0536,
+    "lng": -118.4649,
+    "type": "eat",
+    "reason": "Michelin Bib Gourmand recipient famous for master pizzaiolo Daniele Uditi's neo-Neapolitan slow-fermented crusts."
+  },
+  {
+    "title": "Musso & Frank Grill",
+    "address": "6667 Hollywood Blvd, Hollywood, CA 90028",
+    "lat": 34.1018,
+    "lng": -118.3353,
+    "type": "eat",
+    "reason": "Hollywood's oldest restaurant (est. 1919), globally celebrated for its classic steaks, legendary martinis, and rich cinematic history."
+  },
+  {
+    "title": "Langer's Delicatessen-Restaurant",
+    "address": "704 S Alvarado St, Los Angeles, CA 90057",
+    "lat": 34.0578,
+    "lng": -118.2749,
+    "type": "eat",
+    "reason": "James Beard Award winner widely considered by culinary critics to serve the finest hot pastrami sandwich in America."
+  },
+  {
+    "title": "Republique",
+    "address": "624 S La Brea Ave, Los Angeles, CA 90036",
+    "lat": 34.0641,
+    "lng": -118.3442,
+    "type": "eat",
+    "reason": "A striking French-inspired bakery and bistro housed inside a historic 1920s complex originally built for Charlie Chaplin."
+  },
+  {
+    "title": "Guelaguetza Restaurant",
+    "address": "3014 W Olympic Blvd, Los Angeles, CA 90006",
+    "lat": 34.0524,
+    "lng": -118.2982,
+    "type": "eat",
+    "reason": "An essential James Beard America's Classic landmark universally praised for its authentic Oaxacan moles and tlayudas."
+  },
+  {
+    "title": "Bestia",
+    "address": "2121 E 7th Pl, Los Angeles, CA 90021",
+    "lat": 34.0337,
+    "lng": -118.2291,
+    "type": "eat",
+    "reason": "A powerhouse of the Arts District dining scene, highly acclaimed for its rustic, multi-regional Italian menu and house-cured salumi."
+  },
+  {
+    "title": "Providence",
+    "address": "5955 Melrose Ave, Los Angeles, CA 90038",
+    "lat": 34.0834,
+    "lng": -118.3315,
+    "type": "eat",
+    "reason": "A two-Michelin-starred institution under Chef Michael Cimarusti, leading America in sustainable luxury seafood tasting menus."
+  },
+  {
+    "title": "Park's BBQ",
+    "address": "955 S Vermont Ave, Los Angeles, CA 90006",
+    "lat": 34.0514,
+    "lng": -118.2916,
+    "type": "eat",
+    "reason": "The absolute benchmark for Korean Barbecue in LA, utilizing top-tier USDA Prime and American Wagyu cuts."
+  },
+  {
+    "title": "Felix Trattoria",
+    "address": "1026 Abbot Kinney Blvd, Venice, CA 90291",
+    "lat": 33.9904,
+    "lng": -118.4651,
+    "type": "eat",
+    "reason": "Chef Evan Funke's Venice masterpiece, centered around an enclosed temperature-controlled laboratory for handmade Italian pasta."
+  },
+  {
+    "title": "Bavel",
+    "address": "500 Mateo St, Los Angeles, CA 90013",
+    "lat": 34.0388,
+    "lng": -118.2323,
+    "type": "eat",
+    "reason": "A stunning, plant-draped destination serving critically acclaimed, vibrant Middle Eastern cuisine and freshly baked flatbreads."
+  },
+  {
+    "title": "Phillipe The Original",
+    "address": "1001 N Alameda St, Los Angeles, CA 90012",
+    "lat": 34.0626,
+    "lng": -118.2372,
+    "type": "eat",
+    "reason": "Operating since 1908, this legendary Chinatown cafeteria is famously documented as the birthplace of the French Dip sandwich."
+  },
+  {
+    "title": "n/naka",
+    "address": "3455 Overland Ave, Los Angeles, CA 90034",
+    "lat": 34.0249,
+    "lng": -118.4116,
+    "type": "eat",
+    "reason": "Chef Niki Nakayama's two-Michelin-starred sanctuary, universally praised for its masterfully balanced, modern Japanese Kaiseki dining."
+  },
+  {
+    "title": "Sonoratown DTLA",
+    "address": "208 E 8th St, Los Angeles, CA 90014",
+    "lat": 34.0427,
+    "lng": -118.2514,
+    "type": "eat",
+    "reason": "Award-winning taco destination celebrated for its incredible, ultra-thin lard-infused Sonoran flour tortillas grilled over mesquite."
+  },
+  {
+    "title": "Hayato",
+    "address": "1320 E 7th St, Los Angeles, CA 90021",
+    "lat": 34.0341,
+    "lng": -118.2415,
+    "type": "eat",
+    "reason": "An elite, two-Michelin-starred dinner experience celebrating traditional Japanese chef-counter hospitality at the highest level."
+  },
+  {
+    "title": "Piero's Corner (Formerly Dan Tana's)",
+    "address": "9071 Santa Monica Blvd, West Hollywood, CA 90069",
+    "lat": 34.0827,
+    "lng": -118.3892,
+    "type": "eat",
+    "reason": "A beloved old-school Italian joint adjacent to the Troubadour, serving heavy red-sauce classics to rock royalty since 1964."
+  },
+  {
+    "title": "Cobi's",
+    "address": "2104 Main St, Santa Monica, CA 90405",
+    "lat": 34.0076,
+    "lng": -118.4891,
+    "type": "eat",
+    "reason": "A Michelin Bib Gourmand standout known for its beautifully designed, vibrant space and exceptional Southeast Asian curries."
+  },
+  {
+    "title": "Jitlada",
+    "address": "5233 Sunset Blvd, Los Angeles, CA 90027",
+    "lat": 34.1017,
+    "lng": -118.3045,
+    "type": "eat",
+    "reason": "A globally renowned Thai institution legendary for its fiery, uncompromised, and incredibly deep Southern Thai specialty menu."
+  },
+  {
+    "title": "Otium",
+    "address": "222 S Hope St, Los Angeles, CA 90012",
+    "lat": 34.0532,
+    "lng": -118.2504,
+    "type": "eat",
+    "reason": "A contemporary, sophisticated culinary hub next to The Broad museum, focusing on wood-fired New American dishes."
+  },
+  {
+    "title": "Milo & Olive",
+    "address": "2723 Wilshire Blvd, Santa Monica, CA 90403",
+    "lat": 34.0326,
+    "lng": -118.4735,
+    "type": "eat",
+    "reason": "An essential neighborhood bakery and kitchen highly regarded for its phenomenal wood-fired pizzas and seasonal small plates."
+  },
+  {
+    "title": "Gisoti (Formerly Cassia)",
+    "address": "1314 7th St, Santa Monica, CA 90401",
+    "lat": 34.0191,
+    "lng": -118.4952,
+    "type": "eat",
+    "reason": "A widely acclaimed brasserie flawlessly merging classic French culinary technique with vibrant Southeast Asian flavors."
+  },
+  {
+    "title": "Roscoe's House of Chicken and Waffles",
+    "address": "1514 N Gower St, Los Angeles, CA 90028",
+    "lat": 34.0984,
+    "lng": -118.3223,
+    "type": "eat",
+    "reason": "An iconic Los Angeles comfort food staple frequently visited by global celebrities and referenced across decades of pop culture."
+  },
+  {
+    "title": "Chisoi (Formerly Kato)",
+    "address": "777 S Alameda St, Los Angeles, CA 90021",
+    "lat": 34.0345,
+    "lng": -118.2424,
+    "type": "eat",
+    "reason": "A brilliant, Michelin-starred tasting menu concept highlighting elevated Taiwanese flavors through a modern Southern Californian lens."
+  },
+  {
+    "title": "Osteria Mozza",
+    "address": "6602 Melrose Ave, Los Angeles, CA 90038",
+    "lat": 34.0835,
+    "lng": -118.3341,
+    "type": "eat",
+    "reason": "Chef Nancy Silverton's Michelin-starred monument to Italian fine dining, anchoring an globally famous corner mozzarella bar."
+  },
+  {
+    "title": "Dunsmoor",
+    "address": "3501 Eagle Rock Blvd, Los Angeles, CA 90065",
+    "lat": 34.1082,
+    "lng": -118.2307,
+    "type": "eat",
+    "reason": "A highly acclaimed Glassell Park destination showcasing regional American heritage cooking inside a massive wood-fired hearth."
+  },
+  {
+    "title": "Quarter Sheets Pizza",
+    "address": "1305 Portia St, Los Angeles, CA 90026",
+    "lat": 34.0772,
+    "lng": -118.2573,
+    "type": "eat",
+    "reason": "An exceptionally popular Echo Park hotspot serving inventive, thick-crust Detroit-style square pan pizzas paired with elite desserts."
+  },
+    {
     "title": "Griffith Observatory",
-    "address": "2800 E Observatory Rd",
-    "lat": 34.118,
-    "lng": -118.300,
+    "address": "2800 E Observatory Rd, Los Angeles, CA 90027",
+    "lat": 34.1184,
+    "lng": -118.3004,
     "type": "explore",
-    "reason": "This art deco landmark features a high-tech planetarium, public telescopes & city views."
+    "reason": "An architectural Art Deco icon offering high-tech planetarium shows, public telescopes, and unmatched sweeping vistas of the LA basin."
+  },
+  {
+    "title": "The Getty Center",
+    "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+    "lat": 34.0768,
+    "lng": -118.4739,
+    "type": "explore",
+    "reason": "Richard Meier-designed modernist hilltop campus housing world-class art collections, extensive tranquil gardens, and panoramic city views."
   },
   {
     "title": "The Getty Villa",
-    "address": "17985 Pacific Coast Hwy",
-    "lat": 34.045,
-    "lng": -118.565,
+    "address": "17985 Pacific Coast Hwy, Pacific Palisades, CA 90272",
+    "lat": 34.0458,
+    "lng": -118.5649,
     "type": "explore",
-    "reason": "Former tycoon's residence modeled after 1st-century Italian villa, with Greek & Roman artifacts."
+    "reason": "An exquisite educational museum modeled after a 1st-century Roman country house, showcasing premier Greek and Roman antiquities."
   },
   {
-    "title": "Fox Plaza",
-    "address": "2121 Avenue of the Stars",
-    "lat": 34.055,
-    "lng": -118.413,
+    "title": "Los Angeles County Museum of Art (LACMA)",
+    "address": "5905 Wilshire Blvd, Los Angeles, CA 90036",
+    "lat": 34.0639,
+    "lng": -118.3592,
+    "type": "explore",
+    "reason": "The largest art museum in the western United States, globally recognized for its iconic and highly photographed 'Urban Light' outdoor installation."
+  },
+  {
+    "title": "The Broad",
+    "address": "221 S Grand Ave, Los Angeles, CA 90012",
+    "lat": 34.0544,
+    "lng": -118.2503,
+    "type": "explore",
+    "reason": "A striking contemporary art museum known for its unique 'veil-and-vault' structural architecture and vast collection of masterworks."
+  },
+  {
+    "title": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "address": "1151 Oxford Rd, San Marino, CA 91108",
+    "lat": 34.1292,
+    "lng": -118.1147,
+    "type": "explore",
+    "reason": "An elite cultural oasis pairing rare world literary treasures with breathtaking, immersive themed gardens across 120 historic acres."
+  },
+  {
+    "title": "Bradbury Building",
+    "address": "304 S Broadway, Los Angeles, CA 90013",
+    "lat": 34.0505,
+    "lng": -118.2478,
+    "type": "explore",
+    "reason": "An 1893 architectural masterpiece featuring an unassuming brick exterior that opens into a jaw-dropping, light-flooded ironwork atrium."
+  },
+  {
+    "title": "Walt Disney Concert Hall",
+    "address": "111 S Grand Ave, Los Angeles, CA 90012",
+    "lat": 34.0553,
+    "lng": -118.2498,
+    "type": "explore",
+    "reason": "Frank Gehry's architectural marvel featuring soaring, acoustic-clever stainless steel sails that anchor the LA Philharmonic."
+  },
+  {
+    "title": "Petersen Automotive Museum",
+    "address": "6060 Wilshire Blvd, Los Angeles, CA 90036",
+    "lat": 34.0622,
+    "lng": -118.3614,
+    "type": "explore",
+    "reason": "A world-renowned automotive sanctuary wrapped in striking steel ribbons, detailing the history and cultural impact of the automobile."
+  },
+  {
+    "title": "Natural History Museum of Los Angeles County",
+    "address": "900 Exposition Blvd, Los Angeles, CA 90007",
+    "lat": 34.0170,
+    "lng": -118.2888,
+    "type": "explore",
+    "reason": "A magnificent research institution guarding a grand gem hall, prehistoric dinosaur displays, and localized cultural exhibits."
+  },
+  {
+    "title": "La Brea Tar Pits and Museum",
+    "address": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+    "lat": 34.0628,
+    "lng": -118.3559,
+    "type": "explore",
+    "reason": "The world's only active, urban Ice Age excavation site, actively revealing perfectly preserved fossils right in the urban core."
+  },
+  {
+    "title": "Battleship USS Iowa Museum",
+    "address": "250 S Harbor Blvd, Los Angeles, CA 90731",
+    "lat": 33.7418,
+    "lng": -118.2774,
+    "type": "explore",
+    "reason": "An immense, historic naval battleship transformed into an interactive maritime engineering museum at the Port of Los Angeles."
+  },
+  {
+    "title": "Academy Museum of Motion Pictures",
+    "address": "6067 Wilshire Blvd, Los Angeles, CA 90036",
+    "lat": 34.0632,
+    "lng": -118.3631,
+    "type": "explore",
+    "reason": "The world's premier institution dedicated directly to the arts, sciences, history, and profound cultural impact of moviemaking."
+  },
+  {
+    "title": "Union Station",
+    "address": "800 N Alameda St, Los Angeles, CA 90012",
+    "lat": 34.0562,
+    "lng": -118.2365,
+    "type": "explore",
+    "reason": "Widely called 'the last of the great railway stations' in America, stunningly blending Spanish Colonial Revival and Art Deco design styles."
+  },
+  {
+    "title": "Hollyhock House",
+    "address": "4800 Hollywood Blvd, Los Angeles, CA 90027",
+    "lat": 34.1020,
+    "lng": -118.2939,
+    "type": "explore",
+    "reason": "Frank Lloyd Wright's first modern architectural project in Los Angeles, celebrated as a prestigious UNESCO World Heritage site."
+  },
+  {
+    "title": "El Pueblo de Los Angeles Historical Monument",
+    "address": "125 Paseo De La Plaza, Los Angeles, CA 90012",
+    "lat": 34.0571,
+    "lng": -118.2380,
+    "type": "explore",
+    "reason": "The absolute historic birthplace of modern Los Angeles, centered tightly around Olvera Street's vibrant markets and landmarks."
+  },
+  {
+    "title": "Descanso Gardens",
+    "address": "1418 Descanso Dr, La Cañada Flintridge, CA 91011",
+    "lat": 34.2007,
+    "lng": -118.2112,
+    "type": "explore",
+    "reason": "A tranquil 150-acre botanical sanctuary highly renowned for its specialized collections of camellias, oaks, and local flora."
+  },
+  {
+    "title": "South Coast Botanic Garden",
+    "address": "26300 Crenshaw Blvd, Palos Verdes Peninsula, CA 90274",
+    "lat": 33.7847,
+    "lng": -118.3411,
+    "type": "explore",
+    "reason": "A stunning ecological reclamation project turning a former sanitary landfill into a sprawling 87-acre botanical paradise."
+  },
+  {
+    "title": "Heritage Square Museum",
+    "address": "3800 Homer St, Los Angeles, CA 90031",
+    "lat": 34.0881,
+    "lng": -118.2074,
+    "type": "explore",
+    "reason": "An open-air living history museum preserving eight historic Victorian-era architectural structures saved directly from destruction."
+  },
+  {
+    "title": "Richard Nixon Presidential Library and Museum",
+    "address": "18001 Yorba Linda Blvd, Yorba Linda, CA 92886",
+    "lat": 33.8887,
+    "lng": -117.8192,
+    "type": "explore",
+    "reason": "A vast historical campus featuring dynamic archives, foreign gifts, the original birthplace cottage, and the final resting place of the 37th US President."
+  },
+  {
+    "title": "Ronald Reagan Presidential Library",
+    "address": "40 presidential Dr, Simi Valley, CA 93065",
+    "lat": 34.2588,
+    "lng": -118.8197,
+    "type": "explore",
+    "reason": "A striking hilltop presidential museum housing an actual Air Force One fuselage, a piece of the Berlin Wall, and historic 1980s archives."
+  },
+  {
+    "title": "Norton Simon Museum",
+    "address": "411 W Colorado Blvd, Pasadena, CA 91105",
+    "lat": 34.1461,
+    "lng": -118.1565,
+    "type": "explore",
+    "reason": "An extraordinary art museum holding a world-class collection of European paintings, sculptures, and tapestry works alongside rare Asian art."
+  },
+  {
+    "title": "Annenberg Space for Photography",
+    "address": "2000 Avenue of the Stars, Los Angeles, CA 90067",
+    "lat": 34.0573,
+    "lng": -118.4144,
+    "type": "explore",
+    "reason": "A state-of-the-art print and digital gallery strictly showcasing the profound cultural impact of world photojournalism and fine art."
+  },
+  {
+    "title": "Autry Museum of the American West",
+    "address": "4700 Western Heritage Way, Los Angeles, CA 90027",
+    "lat": 34.1293,
+    "lng": -118.2811,
+    "type": "explore",
+    "reason": "A rich cultural venue inside Griffith Park detailing the inclusive histories, stories, and multifaceted art profiles of the American West."
+  },
+  {
+    "title": "California Science Center",
+    "address": "700 Exposition Park Dr, Los Angeles, CA 90037",
+    "lat": 34.0163,
+    "lng": -118.2869,
+    "type": "explore",
+    "reason": "A massive, premier interactive science museum proudly showcasing the Space Shuttle Endeavour orbiter and aerospace engineering milestones."
+  },
+  [
+  {
+    "title": "The Ennis House",
+    "address": "2607 Glendower Ave, Los Angeles, CA 90027",
+    "lat": 34.1163,
+    "lng": -118.2929,
     "type": "filming",
-    "reason": "Its most famous appearance was in the 1988 action film Die Hard, it portrayed Nakatomi Plaza."
+    "reason": "Frank Lloyd Wright's Mayan Revival textile block marvel famously served as Deckard's apartment building in Ridley Scott's masterpiece Blade Runner (1982)."
   },
   {
-    "title": "In-N-Out Burger",
-    "address": "9149 S Sepulveda Blvd",
-    "lat": 33.953,
-    "lng": -118.396,
-    "type": "eat",
-    "reason": "Iconic Southern California burger joint perfect for spotting planes landing at LAX."
+    "title": "Point Dume State Beach",
+    "address": "Cliffside Dr & Birdview Ave, Malibu, CA 90265",
+    "lat": 34.0012,
+    "lng": -118.8066,
+    "type": "filming",
+    "reason": "The dramatic coastal cliffs served as the iconic final setting where Taylor discovers the buried Statue of Liberty in Planet of the Apes (1968)."
+  },
+  {
+    "title": "The Gamble House",
+    "address": "4 Park Pl, Pasadena, CA 91103",
+    "lat": 34.1517,
+    "lng": -118.1595,
+    "type": "filming",
+    "reason": "An American Craftsman architectural masterwork that portrayed Doc Brown's 1955 mansion garage and home in Back to the Future (1985)."
+  },
+  {
+    "title": "Quality Cafe Location (The Johnie's Complex)",
+    "address": "6101 Wilshire Blvd, Los Angeles, CA 90048",
+    "lat": 34.0628,
+    "lng": -118.3644,
+    "type": "filming",
+    "reason": "The legendary Googie-style diner counter where target conversations were filmed in Quentin Tarantino's acclaimed Reservoir Dogs (1992)."
+  },
+  {
+    "title": "The Millennium Biltmore Hotel",
+    "address": "506 S Grand Ave, Los Angeles, CA 90013",
+    "lat": 34.0497,
+    "lng": -118.2541,
+    "type": "filming",
+    "reason": "The opulent ballroom interiors directly hosted the primary Sedgwick Hotel ghost-hunting sequences in the original Ghostbusters (1984)."
+  },
+  {
+    "title": "The Sheats-Goldstein Residence",
+    "address": "10104 Angelo View Dr, Beverly Hills, CA 90210",
+    "lat": 34.0934,
+    "lng": -118.4343,
+    "type": "filming",
+    "reason": "John Lautner's breathtaking mid-century concrete masterpiece portrayed Jackie Treehorn's luxurious Malibu pad in The Big Lebowski (1998)."
+  },
+  {
+    "title": "Los Angeles City Hall",
+    "address": "200 N Spring St, Los Angeles, CA 90012",
+    "lat": 34.0537,
+    "lng": -118.2426,
+    "type": "filming",
+    "reason": "The historic municipal building's striking tower famously served as the headquarters backdrop for the Daily Planet in Superman (1978)."
+  },
+  {
+    "title": "Rodeo Drive & Regent Beverly Wilshire",
+    "address": "9500 Wilshire Blvd, Beverly Hills, CA 90212",
+    "lat": 34.0669,
+    "lng": -118.4004,
+    "type": "filming",
+    "reason": "The primary luxury retail corridor and hotel backdrop hosting Vivian's high-end shopping transformation arc in Pretty Woman (1990)."
+  },
+  {
+    "title": "Leo Carrillo State Beach",
+    "address": "35000 Pacific Coast Hwy, Malibu, CA 90265",
+    "lat": 34.0442,
+    "lng": -118.9351,
+    "type": "filming",
+    "reason": "The rocky sea caves provided the romantic, secluded backdrop for Danny and Sandy's opening musical sequence in Grease (1978)."
+  },
+  {
+    "title": "The Prince Restaurant",
+    "address": "3198 W 7th St, Los Angeles, CA 90005",
+    "lat": 34.0596,
+    "lng": -118.2917,
+    "type": "filming",
+    "reason": "The historic, dim red-booth interior hosted J.J. Gittes' clandestine surveillance meetings in Roman Polanski's masterpiece Chinatown (1974)."
+  },
+  {
+    "title": "The Formosa Cafe",
+    "address": "7156 Santa Monica Blvd, West Hollywood, CA 90046",
+    "lat": 34.0907,
+    "lng": -118.3458,
+    "type": "filming",
+    "reason": "A historic Hollywood hangout that served as the accurate period backdrop for the neo-noir crime thriller L.A. Confidential (1997)."
+  },
+  {
+    "title": "Vasquez Rocks Natural Area Park",
+    "address": "10700 Escondido Canyon Rd, Agua Dulce, CA 91390",
+    "lat": 34.4799,
+    "lng": -118.3165,
+    "type": "filming",
+    "reason": "The surreal, jagged rock formations famously served as the alien planet battleground between Captain Kirk and the Gorn in Star Trek (1967)."
+  },
+  {
+    "title": "The Cicada Restaurant (Oviatt Building)",
+    "address": "617 S Olive St, Los Angeles, CA 90014",
+    "lat": 34.0481,
+    "lng": -118.2536,
+    "type": "filming",
+    "reason": "The exquisite Art Deco venue portrayed the upscale restaurant where Edward and Vivian have their formal business dinner in Pretty Woman (1990)."
+  },
+  {
+    "title": "Second Street Tunnel",
+    "address": "620 W 2nd St, Los Angeles, CA 90012",
+    "lat": 34.0541,
+    "lng": -118.2514,
+    "type": "filming",
+    "reason": "The distinctively tiled, glowing subterranean passage hosted the visually striking night-driving sequences in the neo-noir film Drive (2011)."
+  },
+  {
+    "title": "Griffith Park Old Zoo",
+    "address": "4730 Crystal Springs Dr, Los Angeles, CA 90027",
+    "lat": 34.1339,
+    "lng": -118.2889,
+    "type": "filming",
+    "reason": "The abandoned stone cages and enclosures served as the intense wilderness hideout for the anchor sequences in Anchorman (2004)."
+  },
+  {
+    "title": "LAX Theme Building",
+    "address": "209 World Way, Los Angeles, CA 90045",
+    "lat": 33.9431,
+    "lng": -118.4022,
+    "type": "filming",
+    "reason": "The futuristic Mid-Century modern space-age monument served as the central establishing terminal backdrop in Steven Spielberg's Catch Me If You Can (2002)."
+  },
+  {
+    "title": "The Ebell of Los Angeles",
+    "address": "743 S Lucerne Blvd, Los Angeles, CA 90005",
+    "lat": 34.0594,
+    "lng": -118.3248,
+    "type": "filming",
+    "reason": "The elegant historic campus interior portrayed the clinical hospital ward rooms where Frank Abagnale Jr. poses as a doctor in Catch Me If You Can (2002)."
+  },
+  {
+    "title": "The Smoke House Restaurant",
+    "address": "4420 Lakeside Dr, Burbank, CA 91505",
+    "lat": 34.1481,
+    "lng": -118.3444,
+    "type": "filming",
+    "reason": "The classic leather-booth steakhouse served as the venue where Sebastian plays jazz piano and gets fired in Damien Chazelle's La La Land (2016)."
+  },
+  {
+    "title": "The Colorado Street Bridge",
+    "address": "504 W Colorado Blvd, Pasadena, CA 91105",
+    "lat": 34.1444,
+    "lng": -118.1669,
+    "type": "filming",
+    "reason": "The stunning 1913 Beaux-Arts bridge served as the highly romanticized summer sunset walking location for Sebastian and Mia in La La Land (2016)."
+  },
+  {
+    "title": "The Lighthouse Cafe",
+    "address": "30 Pier Ave, Hermosa Beach, CA 90254",
+    "lat": 33.8617,
+    "lng": -118.4019,
+    "type": "filming",
+    "reason": "The historic beachside jazz hub served as the primary musical venue where Sebastian introduces Mia to traditional jazz in La La Land (2016)."
+  },
+  {
+    "title": "Hermosa Beach Pier",
+    "address": "1 Pier Ave, Hermosa Beach, CA 90254",
+    "lat": 33.8615,
+    "lng": -118.4056,
+    "type": "filming",
+    "reason": "The seaside concrete pier served as the twilight setting where Sebastian sings 'City of Stars' under the glowing lampposts in La La Land (2016)."
+  },
+  {
+    "title": "The Rialto Theatre",
+    "address": "1023 Fair Oaks Ave, South Pasadena, CA 91030",
+    "lat": 34.1147,
+    "lng": -118.1501,
+    "type": "filming",
+    "reason": "The historic 1925 theatre interior hosted Sebastian and Mia's classic date night watching Rebel Without a Cause in La La Land (2016)."
+  },
+  {
+    "title": "Angels Flight Railway",
+    "address": "351 S Hill St, Los Angeles, CA 90013",
+    "lat": 34.0512,
+    "lng": -118.2497,
+    "type": "filming",
+    "reason": "The historic Bunker Hill funicular railway hosted the romantic, musical montage kiss sequence between Sebastian and Mia in La La Land (2016)."
+  },
+  {
+    "title": "The Warner Grand Theatre",
+    "address": "478 W 6th St, San Pedro, CA 90731",
+    "lat": 33.7381,
+    "lng": -118.2882,
+    "type": "filming",
+    "reason": "The beautiful 1931 Art Deco movie palace interior hosted the intense harbor theater staging sequences in Michael Mann's masterpiece Heat (1995)."
+  },
+  {
+    "title": "Los Angeles Theatre",
+    "address": "615 S Broadway, Los Angeles, CA 90014",
+    "lat": 34.0451,
+    "lng": -118.2526,
+    "type": "filming",
+    "reason": "The breathtaking French Baroque movie palace interior served as the premier, elite casino venue setting in Ridley Scott's Blade Runner (1982)."
   }
+]
 ]
