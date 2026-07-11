@@ -39,4 +39,13 @@ Instead of cataloging everything, this project focuses on quality. The standard 
 
 **Map Data:** Licensed under the [Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/). Incorporates data from [OpenStreetMap](https://www.openstreetmap.org/). Attribution: © OpenStreetMap contributors.
 
+**Acknowledgements & Data Sources**
+
+This project utilizes geospatial boundary data provided by the City of Los Angeles:
+
+* **Neighborhood Boundaries**: Derived from the [LA Times Neighborhood Boundaries dataset](https://lacity.org) provided via the [Los Angeles GeoHub](https://geohub.lacity.org/).
+* **Original Creator**: Los Angeles Times Mapping L.A. Project.
+* **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org).
+* *Note: The original dataset was modified using Mapshaper to remove attribute properties and reduce coordinate numerical precision for map performance optimizations.*
+
 **Code:** Licensed under the MIT License.
